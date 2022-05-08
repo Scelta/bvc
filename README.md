@@ -1,6 +1,8 @@
-# BVC
+# About BVC
 
-Bioinformatics version control for team
+Bioinformatics Version Control (BVC) is a solution designed to manage **modern** projects with **iterated scripts** and **huge data**, especially for sequencing data. Another challenge comes from interdisciplinary projects, which requires **multiple teams** with experts in various fields. How to collaborate with team members to understand codes and reproduce (validate) results from each other are becoming a kind of new bottle-neck during practicing.
+
+From individual to team, efficient and convenient methodology and toolbox are needed to manage our project well. This repository shares my ideology about how to organize such projects with public excellent tools to make ourselves more efficient and professional.
 
 ## Getting started
 
