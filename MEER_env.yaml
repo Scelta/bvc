@@ -1,0 +1,11 @@
+name: meer
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.*
+  - git
+  - dvc
+  - perl
+  - fastp=0.23.2
+  - megahit=1.2.9
